@@ -87,8 +87,8 @@ export default function Contact() {
           <div className="info-item">
             <h4>Email Us</h4>
             <p>
-              <a href="mailto:no-reply@infinitiservices.com">no-reply@infinitiservices.com</a><br />
-              <a href="mailto:support@infinitiservices.com">support@infinitiservices.com</a>
+              <a href="mailto:no-reply@Infinityservices.com">no-reply@Infinityservices.com</a><br />
+              <a href="mailto:support@Infinityservices.com">support@Infinityservices.com</a>
             </p>
           </div>
 

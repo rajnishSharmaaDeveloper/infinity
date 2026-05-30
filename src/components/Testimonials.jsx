@@ -6,7 +6,7 @@ export default function Testimonials() {
       quote: "To become the most trusted and convenient laundry service, delivering exceptional garment care while saving our customers time and effort through reliable, affordable, and eco-friendly solutions.",
       avatar: `${import.meta.env.BASE_URL}munna.jpg`,
       name: "Munna Gupta",
-      role: "Founder, Infiniti"
+      role: "Founder, Infinity"
     }
   ];
 

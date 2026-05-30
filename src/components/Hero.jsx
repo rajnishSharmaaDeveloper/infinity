@@ -21,7 +21,7 @@ export default function Hero() {
 
       {/* Hero Core Content */}
       <div className="hero-content animate-fade-in">
-        <span className="hero-subtitle">We Are Infiniti</span>
+        <span className="hero-subtitle">We Are Infinity</span>
         <h1 className="hero-title">
           Expert Laundry Care<br />Delivered to Your Door.
         </h1>

@@ -4,7 +4,7 @@ import { ArrowRight } from 'lucide-react';
 export default function Footer() {
   const handleSubscribe = (e) => {
     e.preventDefault();
-    alert("Thank you for subscribing to Infiniti fabric care guides!");
+    alert("Thank you for subscribing to Infinity fabric care guides!");
     e.target.reset();
   };
 
@@ -13,9 +13,9 @@ export default function Footer() {
       <div className="footer-grid">
         {/* About column */}
         <div className="footer-col">
-          <h3>About Infiniti</h3>
+          <h3>About Infinity</h3>
           <p>
-            Infiniti Services delivers five-star, luxury laundry and organic fabric preservation directly to your doorstep. Care that elevates, preserves, and honors every thread of your collection.
+            Infinity Services delivers five-star, luxury laundry and organic fabric preservation directly to your doorstep. Care that elevates, preserves, and honors every thread of your collection.
           </p>
         </div>
 
@@ -53,7 +53,7 @@ export default function Footer() {
 
       <div className="footer-bottom">
         <div>
-          &copy; Copyright Infiniti Services 2026.
+          &copy; Copyright Infinity Services 2026.
         </div>
         <div>
           Distributed by <a href="#home" className="text-gold">Infinity Care</a>
