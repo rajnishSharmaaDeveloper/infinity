@@ -56,7 +56,7 @@ export default function Footer() {
           &copy; Copyright Infiniti Services 2026.
         </div>
         <div>
-          Distributed by <a href="#home" className="text-gold">Infiniti Care</a> | Design Inspired by styleshout.
+          Distributed by <a href="#home" className="text-gold">Infinity Care</a>
         </div>
       </div>
     </footer>

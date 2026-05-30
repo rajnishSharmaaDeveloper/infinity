@@ -3,10 +3,10 @@ import React from 'react';
 export default function Testimonials() {
   const testimonials = [
     {
-      quote: "The service at Infiniti is absolutely unparalleled. My designer woolens and tailored silks return with a fresh texture and color intensity that is better than brand new.",
-      avatar: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=120&auto=format&fit=crop",
-      name: "Charlotte Rose",
-      role: "Creative Director, Atelier V"
+      quote: "To become the most trusted and convenient laundry service, delivering exceptional garment care while saving our customers time and effort through reliable, affordable, and eco-friendly solutions.",
+      avatar: `${import.meta.env.BASE_URL}munna.jpg`,
+      name: "Munna Gupta",
+      role: "Founder, Infiniti"
     }
   ];
 
@@ -19,7 +19,7 @@ export default function Testimonials() {
   return (
     <section className="testimonials-section">
       <div className="accent-bar"></div>
-      <span className="section-subtitle">Testimonials</span>
+      <span className="section-subtitle">Vision</span>
 
       <div className="testimonial-quote">
         <p>{current.quote}</p>

@@ -79,15 +79,15 @@ export default function Contact() {
           <div className="info-item">
             <h4>Where to Find Us</h4>
             <p>
-              1600 Amphitheatre Parkway<br />
-              Mountain View, CA 94043
+              Vibhav Khand, Gomti Nagar<br />
+              Lucknow, UP 226010
             </p>
           </div>
 
           <div className="info-item">
             <h4>Email Us</h4>
             <p>
-              <a href="mailto:valet@infinitiservices.com">valet@infinitiservices.com</a><br />
+              <a href="mailto:no-reply@infinitiservices.com">no-reply@infinitiservices.com</a><br />
               <a href="mailto:support@infinitiservices.com">support@infinitiservices.com</a>
             </p>
           </div>
@@ -95,9 +95,8 @@ export default function Contact() {
           <div className="info-item">
             <h4>Call Us</h4>
             <p>
-              Phone: (+1) 234 567 890<br />
-              Mobile: (+1) 987 654 321<br />
-              Fax: (+1) 234 567 891
+              Phone: (+91) 9335935072<br />
+              Mobile: (+91) 9335935072<br />
             </p>
           </div>
         </div>

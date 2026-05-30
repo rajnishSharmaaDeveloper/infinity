@@ -18,12 +18,12 @@ export default function FeaturedProjects() {
       title: "Premium Organic Linens"
     },
     {
-      img: "https://images.unsplash.com/photo-1607344645866-009c320c5ab8?q=80&w=600&auto=format&fit=crop",
+      img: `${import.meta.env.BASE_URL}laundry-fold.jpg`,
       category: "Restoration",
       title: "Eco stain-lifting Solutions"
     },
     {
-      img: "https://images.unsplash.com/photo-1545173168-9f1947eebd01?q=80&w=600&auto=format&fit=crop",
+      img: `${import.meta.env.BASE_URL}laundry-stack.jpg`,
       category: "State of Art",
       title: "Advanced Wash Chemistry"
     },

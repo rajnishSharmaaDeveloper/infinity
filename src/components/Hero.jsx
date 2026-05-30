@@ -1,8 +1,7 @@
 import React from 'react';
 
 export default function Hero() {
-  // A premium golden architectural ceiling image from Unsplash that mimics the leading lines and golden tones of the user's mockup
-  const bgImage = "https://images.unsplash.com/photo-1540555700478-4be289fbecef?q=80&w=1974&auto=format&fit=crop";
+  const bgImage = `${import.meta.env.BASE_URL}hero-bg.jpg`;
 
   return (
     <section 
@@ -24,7 +23,7 @@ export default function Hero() {
       <div className="hero-content animate-fade-in">
         <span className="hero-subtitle">We Are Infiniti</span>
         <h1 className="hero-title">
-          We Craft Pristine<br />Garment Experiences.
+          Expert Laundry Care<br />Delivered to Your Door.
         </h1>
         <a href="#contact" className="btn-outline">
           Book A Pickup
