@@ -21,7 +21,7 @@ export default function MenuDrawer({ isOpen, onClose }) {
       <div className={`menu-drawer ${isOpen ? 'open' : ''}`}>
         <div className="drawer-header">
           <div className="drawer-logo">
-            Infiniti<span>.</span>
+            Infinity<span>.</span>
           </div>
           <button className="drawer-close" onClick={onClose} aria-label="Close menu">
             &times;
